@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="capa.png" alt="Capa do projeto" width="500"/>
+</p>
+
 #  Projeto GameOn - Plataforma de Eventos Gamer
 
 Este foi meu primeiro projeto no Figma, desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas. A proposta foi criar a interface de uma plataforma para organização de eventos de eSports, voltada tanto para jogadores quanto para organizadores de torneios e eventos.
@@ -36,7 +40,3 @@ Os elementos gráficos e tipografia foram escolhidos para reforçar a sensação
 
 
 👉 [Acesse aqui o protótipo no Figma](https://www.figma.com/proto/5spCm1RqbcwddXuiv9oR1B/Projeto-Evento-Games
-
-<p align="center">
-  <img src="capa.png" alt="Capa do projeto" width="800"/>
-</p>
