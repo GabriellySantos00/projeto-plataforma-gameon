@@ -33,6 +33,3 @@ Os elementos gráficos e tipografia foram escolhidos para reforçar a sensação
 
 🔗 Link para o protótipo
 👉 [Acesse aqui o protótipo no Figma](https://www.figma.com/proto/5spCm1RqbcwddXuiv9oR1B/Projeto-Evento-Games
-
-
-Este projeto marca o começo da minha trajetória com UI/UX e Figma, e estou animada para continuar evoluindo! 🚀
