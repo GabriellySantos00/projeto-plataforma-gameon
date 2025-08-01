@@ -4,7 +4,7 @@
 
 #  Projeto GameOn - Plataforma de Eventos Gamer
 
-Este foi meu primeiro projeto no Figma, desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas. A proposta foi criar a interface de uma plataforma para organização de eventos de eSports, voltada tanto para jogadores quanto para organizadores de torneios e eventos.
+Este foi meu primeiro projeto no Figma, desenvolvido como finalização do primeiro semestre do meu curso de Análise e Desenvolvimento de Sistemas com ajuda da minha colega Camilly. A proposta foi criar a interface de uma plataforma para organização de eventos de eSports, voltada tanto para jogadores quanto para organizadores de torneios e eventos.
 
 # Objetivo
 
