@@ -32,4 +32,5 @@ Os elementos gráficos e tipografia foram escolhidos para reforçar a sensação
 - Referências de acessibilidade e experiência do usuário
 
 🔗 Link para o protótipo
+
 👉 [Acesse aqui o protótipo no Figma](https://www.figma.com/proto/5spCm1RqbcwddXuiv9oR1B/Projeto-Evento-Games
